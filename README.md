@@ -2,4 +2,4 @@
 Learning basic of git and github
 
 
-#chnage 1
+#change 1
